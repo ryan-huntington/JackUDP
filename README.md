@@ -15,16 +15,16 @@ This Java project implements a UDP (User Datagram Protocol) server and client, a
 To run the UDP server, use the following command:
 `java Server <port>`
 
-- **<port>**: The port number on which the server will listen for incoming UDP datagrams.
+- `<port>`: The port number on which the server will listen for incoming UDP datagrams.
 
 ### Client:
 To run the UDP client, use the following command:
 `java Client <Server> <Port> <Op> <Payload>`
 
-- **<Server>:** The IP address or hostname of the UDP server.
-- **<Port>:** The port number on which the UDP server is listening.
-- **<Op>:** The operation to be performed by the server.
-- **<Payload>:** The payload or data to be sent to the server.
+- `<Server>`: The IP address or hostname of the UDP server.
+- `<Port>`: The port number on which the UDP server is listening.
+- `<Op>`: The operation to be performed by the server.
+- `<Payload>`: The payload or data to be sent to the server.
 
   ## Dependencies:
 
