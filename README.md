@@ -19,7 +19,7 @@ To run the UDP server, use the following command:
 
 ### Client:
 To run the UDP client, use the following command:
-`java UDPClient <Server> <Port> <Op> <Payload>`
+`java Client <Server> <Port> <Op> <Payload>`
 
 - **<Server>:** The IP address or hostname of the UDP server.
 - **<Port>:** The port number on which the UDP server is listening.
